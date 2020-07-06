@@ -1,0 +1,28 @@
+{
+	"name": "softdarkened",
+	"displayName": "SoftDarkened",
+	"description": "SoftDarkened",
+	"version": "0.0.1",
+	"publisher": "ermiq",
+	"repository": "https://github.com/Ermiq/SoftDarkenedTheme_VSCode",
+	"engines": {
+		"vscode": "^1.39.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "SoftDarkenedTheme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/SoftDarkened-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "456c21e1-99af-49bd-894c-d48e4af8ecf2",
+		"publisherId": "0a403a32-cfe6-4157-9781-de32d6fee913",
+		"publisherDisplayName": "Ermiq"
+	}
+}
