@@ -2,9 +2,9 @@
 	"name": "softdarkened",
 	"displayName": "SoftDarkened",
 	"description": "SoftDarkened",
-	"version": "0.0.1",
+	"version": "0.0.4",
 	"publisher": "ermiq",
-	"repository": "https://github.com/Ermiq/SoftDarkenedTheme_VSCode",
+	"repository": "https://github.com/Ermiq/VSCode-SoftDarkened-theme",
 	"engines": {
 		"vscode": "^1.39.1"
 	},
